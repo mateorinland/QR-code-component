@@ -1,5 +1,5 @@
 # QR code component
-My solution for Frontend Mentor's QR code component (Newbie) challenge.
+My solution for Frontend Mentor's QR code component challenge.
 
 Using HTML5 and CSS3.
 * Semantic markup.
